@@ -1,9 +1,13 @@
 # moment1
+- 🤓 School project
+- ✨ First Git repo
+- 👍 Published to Github Page
 
-<h2> Link to page </h2>
+
+## Link to page
 
 [https://linemaria.github.io.](https://linemaria.github.io.)
 
-<h2>Clone this repository</h2>
+## Clone this repository
 
 git clone [https://github.com/linemaria/moment1.git](https://github.com/linemaria/moment1.git)
